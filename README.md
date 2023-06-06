@@ -6,7 +6,6 @@ This repository contains all the materials and documentation related to the Sold
 
 ## Table of Contents
 1. [About the Project](#about-the-project)
-2. [Usage](#usage)
 3. [Prerequisites](#prerequisites)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
