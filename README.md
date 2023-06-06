@@ -14,7 +14,7 @@ This repository contains all the materials and documentation related to the Sold
 8. [Acknowledgements](#acknowledgements)
 
 ## About The Project
-The Soldering Station project was inspired by the catalogue Elektor. The project focuses on learning new software and building tools, rather than creating something from scratch. The finished product is an essential tool for any electrical engineer. The manufacturing of the soldering station involves the collaboration of five distinct modules: power supply, CPU, PWM, thermocouple, and display.
+The Soldering Station project was inspired by the catalogue Elektor. The project focuses on learning new software and building tools, rather than creating something from scratch. The finished product is an essential tool for any electrical engineer. The manufacturing of the soldering station involves the collaboration of five distinct modules: power supply, CPU, PWM, thermocouple, and display. There is also a seperate pcb called the transfer which connects the main pcb to the rotary encoder, the two buttons and the lcd screen.
 
 
 ### Prerequisites
