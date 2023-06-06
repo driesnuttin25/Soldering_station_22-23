@@ -23,11 +23,13 @@ This is a list of the software you'll need to be able to make this project for y
 To make the pcb itself:
 
 ![image](https://github.com/driesnuttin25/Soldering_station_22-23/assets/114076101/6c5d782e-27b8-41bb-996d-e8559c45c077)
+<img width="450" alt="image" src="https://github.com/driesnuttin25/Soldering_station_22-23/assets/114076101/ca332b1c-cb38-4af4-805b-91a02855aa9c">
 
 * Fusion
 To make the case to hold the pcb and the soldering station itself. As an example this is the case I made in Fusion:
 
 ![image](https://github.com/driesnuttin25/Soldering_station_22-23/assets/114076101/6b220084-8deb-4959-97d4-8b77c2b71662)
+![image](https://github.com/driesnuttin25/Soldering_station_22-23/assets/114076101/ebf65335-bed2-4159-8a7d-3984945de36b)
 
 For the materials of the project you can refer to the BOM repository.
 
