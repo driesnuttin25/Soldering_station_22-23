@@ -28,8 +28,8 @@ To make the pcb itself:
 * Fusion
 To make the case to hold the pcb and the soldering station itself. As an example this is the case I made in Fusion:
 
-![image](https://github.com/driesnuttin25/Soldering_station_22-23/assets/114076101/6b220084-8deb-4959-97d4-8b77c2b71662)
-![image](https://github.com/driesnuttin25/Soldering_station_22-23/assets/114076101/ebf65335-bed2-4159-8a7d-3984945de36b)
+![image](https://github.com/driesnuttin25/Soldering_station_22-23/assets/114076101/99b9d17f-bd29-43bf-9893-b3c9cdd04a13)
+![image](https://github.com/driesnuttin25/Soldering_station_22-23/assets/114076101/079c6b82-777b-4dda-ab5c-6220c57c75c6)
 
 For the materials of the project you can refer to the BOM repository.
 
